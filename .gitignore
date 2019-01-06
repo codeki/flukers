@@ -11,6 +11,7 @@ sysinfo.txt
 /Assets/AssetStoreTools*
 *.apk
 *.unitypackage
+build*
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -44,3 +45,7 @@ ehthumbs.db
 Corridor/Library/ShaderCache/
 Corridor/Library/metadata/
 
+# ========= #
+# Purchased #
+# ========= #
+Assets/NotFree/
